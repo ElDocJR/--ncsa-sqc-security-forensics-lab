@@ -44,4 +44,4 @@ Hash cracking and identification of the required NCSA PDF/image content need fur
 Educational assessment using course-provided targets and evidence. This is not a professional penetration test or real-world incident response engagement. Public documentation excludes sensitive evidence and restricted assessment answers. Default-credit tasks are not listed as demonstrated skills.
 
 Sources: supplied NCSA SQC instructions and my NCSA score report, displaying September 14, 2026.
-[View assessment results (public copy)](evidence_NCSA-SQC-Results.pdf)
+[View assessment results (public copy)](https://github.com/ElDocJR/--ncsa-sqc-security-forensics-lab/blob/main/evidence_NCSA-SQC-Results.pdf)
